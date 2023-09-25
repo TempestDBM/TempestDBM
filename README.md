@@ -29,7 +29,7 @@
 
 <div align="center">
   <h2>💕 Contador de Visitas</h2>
-  <a href="https://discord.com/users/978685854912499712">
+  <a href="https://discord.com/users/321400509326032897">
     <img width="400" src="https://count.getloli.com/get/@tempestdbm?theme=rule34">
   </a>
 </div>
