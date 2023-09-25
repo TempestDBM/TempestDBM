@@ -1,12 +1,12 @@
 <div align="left">
   <a>
-    <img src="https://media.discordapp.net/attachments/1126666947195576340/1155659194071007232/welcome_banner_tempest.png">
+    <img src="https://raw.githubusercontent.com/TempestDBM/TempestDBM/main/welcome.png">
   </a>
 </div>
 
 <div align="center">
   <h2>💻 Linguagens Principais</h2>
-  <img src="https://media.discordapp.net/attachments/1011356766304477235/1155628796897136750/tempest_progamming_language.png">
+  <img src="https://raw.githubusercontent.com/TempestDBM/TempestDBM/main/img2.png">
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
   <h2>🎧 Tocando Agora</h2>
   <a>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=qzntab8jymzrwmyip1f5rpdyn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" />
-    <img src="https://media.discordapp.net/attachments/1011356766304477235/1155659682644492339/banner_spotify_tempest.png">
+    <img src="https://raw.githubusercontent.com/TempestDBM/TempestDBM/main/img3.png">
   </a>
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
    <h2>✉️ Contato</h2>
-   <img src="https://media.discordapp.net/attachments/1126666947195576340/1155637573205631128/rimuru_random.png" align="left">
+   <img src="https://raw.githubusercontent.com/TempestDBM/TempestDBM/main/img4.png" align="left">
    <p align="left">
       
    &nbsp;
