@@ -43,7 +43,7 @@
    
    &nbsp;
     
-   &nbsp;&#10022; Me Contate por Aqui: &#10022;
+   &nbsp;&#10022; Me contate por aqui: &#10022;
 
    tempest@arknus.app
    </p>
